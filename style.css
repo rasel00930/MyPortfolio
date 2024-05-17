@@ -1,0 +1,23 @@
+body{
+    font-family: "Poppins", sans-serif;
+}
+
+h1{
+    font-size: 50px;
+}
+.name_heilight{
+    color: orange;
+}
+
+.halfwidth{
+
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 4%;
+
+}
+.halfwidth img{
+    width: 90%; 
+
+}
